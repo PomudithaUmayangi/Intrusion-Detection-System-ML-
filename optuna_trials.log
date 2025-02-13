@@ -1,0 +1,10 @@
+INFO:root:Trial 0 - Accuracy: 0.9898 | hidden_size1: 82, hidden_size2: 62, lr: 0.006659
+INFO:root:Trial 1 - Accuracy: 0.9652 | hidden_size1: 82, hidden_size2: 36, lr: 0.001598
+INFO:root:Trial 2 - Accuracy: 0.8596 | hidden_size1: 100, hidden_size2: 102, lr: 0.000192
+INFO:root:Trial 3 - Accuracy: 0.8763 | hidden_size1: 40, hidden_size2: 127, lr: 0.000563
+INFO:root:Trial 4 - Accuracy: 0.7641 | hidden_size1: 109, hidden_size2: 103, lr: 0.000112
+INFO:root:Trial 5 - Accuracy: 0.9893 | hidden_size1: 103, hidden_size2: 119, lr: 0.004949
+INFO:root:Trial 6 - Accuracy: 0.9816 | hidden_size1: 106, hidden_size2: 93, lr: 0.003056
+INFO:root:Trial 7 - Accuracy: 0.9945 | hidden_size1: 101, hidden_size2: 89, lr: 0.019036
+INFO:root:Trial 8 - Accuracy: 0.9881 | hidden_size1: 112, hidden_size2: 105, lr: 0.004617
+INFO:root:Trial 9 - Accuracy: 0.9914 | hidden_size1: 34, hidden_size2: 60, lr: 0.023789
